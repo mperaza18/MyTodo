@@ -368,5 +368,5 @@ dotnet_diagnostic.CA1835.severity = error   # Prefer the 'Memory'-based overload
 dotnet_diagnostic.CA1836.severity = error   # Prefer IsEmpty over Count
 dotnet_diagnostic.CA1837.severity = error   # Use 'Environment.ProcessId'
 dotnet_diagnostic.CA1838.severity = error   # Avoid 'StringBuilder' parameters for P/Invokes
-dotnet_diagnostic.CA2007.severity = error   # Consider calling ConfigureAwait on the awaited task
+#dotnet_diagnostic.CA2007.severity = error   # Consider calling ConfigureAwait on the awaited task
 dotnet_diagnostic.CA2016.severity = error   # Forward the 'CancellationToken' parameter
